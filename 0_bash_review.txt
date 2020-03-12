@@ -1,0 +1,30 @@
+Discuss with someone next to you:
+
+- In your own words, what do each of the following commands do?
+
+- How might you use them?
+
+cd
+
+ls
+
+pwd
+
+cp
+
+cp -r
+
+mv
+
+rm
+
+rm -r
+
+mkdir
+
+rmdir
+
+touch
+
+echo
+
